@@ -5,7 +5,9 @@ This contains, the App of Silly Cam's code. Me with my team built this for inter
 ## Description
 
 This app has been coded in  Flutter,Dart. Containing a beautiful GUI it provides just the right face for an equally beautiful algorithm.
-It generates Viral meme videos, with the face entered by the user morphed into the video's character:
+It generates Viral meme videos, with the face entered by the user morphed into the video's character.
+
+Here is a demonstration, dictated by my team-mate on how the app worked! https://www.youtube.com/watch?v=NJF26Yf6Pfg&feature=emb_logo
 
 ## Features of this!
   1. User authentication and profile generation
